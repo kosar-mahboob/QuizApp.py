@@ -20,7 +20,7 @@ Perfect for beginners who are learning Python and want to create something cool.
 1. Clone the repo or download the `.py` file  
 2. Open your terminal and run the file:
 
-bash
+'''bash
 python quiz_app.py
 
 
