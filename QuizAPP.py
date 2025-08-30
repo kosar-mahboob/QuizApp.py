@@ -11,6 +11,7 @@ class Question:
         self.difficulty = difficulty.lower()
         self.time_limit = time_limit  # in seconds (0 means no time limit)
 
+
 def run_quiz(questions, player_name):
     score = 0
     time_up = False
