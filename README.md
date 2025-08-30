@@ -24,6 +24,7 @@ Perfect for beginners who are learning Python and want to create something cool.
 python quiz_app.py
 
 
+
 ## Sample Question Format:
 
 What is the capital of France?
